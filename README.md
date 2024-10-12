@@ -1,3 +1,3 @@
-This is the data of the section S6 from the supporting information.
+This is the data of our predicted mechanical properties of 800,000 virtual PI structures.
 
 And our work is: Unveiling High-Performance Polyimides and Their Composites Through Explainable Machine Learning.
